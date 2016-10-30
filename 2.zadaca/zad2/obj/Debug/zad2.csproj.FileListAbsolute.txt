@@ -1,0 +1,7 @@
+C:\Users\Zvonimir\Desktop\C#\2.zadaca\2.zadaca\zad2\obj\Debug\zad2.csprojResolveAssemblyReference.cache
+C:\Users\Zvonimir\Desktop\C#\2.zadaca\2.zadaca\zad2\bin\Debug\zad2.dll
+C:\Users\Zvonimir\Desktop\C#\2.zadaca\2.zadaca\zad2\bin\Debug\zad2.pdb
+C:\Users\Zvonimir\Desktop\C#\2.zadaca\2.zadaca\zad2\bin\Debug\zad1.dll
+C:\Users\Zvonimir\Desktop\C#\2.zadaca\2.zadaca\zad2\bin\Debug\zad1.pdb
+C:\Users\Zvonimir\Desktop\C#\2.zadaca\2.zadaca\zad2\obj\Debug\zad2.dll
+C:\Users\Zvonimir\Desktop\C#\2.zadaca\2.zadaca\zad2\obj\Debug\zad2.pdb
