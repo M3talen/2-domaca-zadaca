@@ -24,6 +24,6 @@ namespace zad3
                 Console.WriteLine(s);
             }
             Console.Read();
-		}
+	    }
 	}
 }
